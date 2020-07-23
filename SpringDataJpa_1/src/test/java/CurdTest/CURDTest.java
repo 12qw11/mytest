@@ -23,7 +23,7 @@ public class CURDTest {
       @Autowired
       private CustomerDao customerDao;
 
-    // 保存
+    // 保存撒范德萨范德萨发达
     @Test
      public  void  testSave(){
          Customer customer  =  new Customer();
